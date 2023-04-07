@@ -9294,8 +9294,13 @@
 		color: #ffffff;
 	}
 
-	.bg-academic-structure{
+	.bg-academic-structure {
 		background-color: #ffffff !important;
+		color: #ffffff;
+	}
+
+	.bg-academic-structure h2{
+		color: #ffffff;
 	}
 
 	.breadcrumb-title h2{
@@ -9305,7 +9310,7 @@
 	.bg-light-v4 {
 		background-color: #f3f6fb !important
 	}
-
+	
 	.bg-light-v5 {
 		background-color: #F3F6FB !important
 	}
