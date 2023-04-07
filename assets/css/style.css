@@ -289,6 +289,9 @@
 		position: relative
 	}
 
+	.nav-item .nav-link:hover{
+		color: #ff00f0;
+	}
 	.nav-item__has-dropdown .dropdown-menu {
 		border-top: 3px solid #bd072e
 	}
@@ -9278,7 +9281,9 @@
 
 	.bg-light-v2 {
 		background-color: #af72aa;
-	
+		background-position: center;
+		background-image: url("/images/building.jpg");
+			
 	}
 
 	.bg-light-v3 {
